@@ -96,10 +96,3 @@ Add support for model interpretability (e.g., SHAP, LIME)
 Pull requests are welcome!
 For major changes, please open an issue first to discuss what you would like to change.
 
-
-
-## 🎥 Model Training Progress
-<p align="center">
-  <img src="assets/training.gif" width="600">
-</p>
-
