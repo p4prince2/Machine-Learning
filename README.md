@@ -16,21 +16,23 @@ Matplotlib / Seaborn (for data visualization)
 
 Scikit-learn
 
-PyTorch / TensorFlow (if you use deep learning models)
+PyTorch / TensorFlow 
 
-[Other libraries specific to your project]
 
 # Project Structure
-bash
-Copy
-Edit
 ├── data/             # Datasets (raw and processed)
+
 ├── notebooks/        # Jupyter notebooks for experiments
+
 ├── src/              # Source code (data loaders, models, training scripts)
+
 ├── outputs/          # Saved models, logs, generated files
+
 ├── README.md         # Project overview
+
 ├── requirements.txt  # Python package dependencies
-└── LICENSE           # License file (optional)
+
+
 # Workflow
 Data Collection: Gather the dataset used for training and testing.
 
@@ -98,8 +100,7 @@ Add support for model interpretability (e.g., SHAP, LIME)
 Pull requests are welcome!
 For major changes, please open an issue first to discuss what you would like to change.
 
-## 🎥 Model Training Progress
-![Training](assets/training.gif)
+
 
 ## 🎥 Model Training Progress
 <p align="center">
