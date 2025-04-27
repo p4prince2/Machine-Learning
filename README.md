@@ -48,29 +48,34 @@ Deployment (optional): Exporting the model for production use.
 
 # How to Run
 Clone the repository:
-
-bash
-Copy
-Edit
+```
 git clone https://github.com/p4prince2/Machine-Learning.git
+```
+```
 cd Machine-Learning
+```
 Install dependencies:
-
+```
 pip install -r requirements.txt
+```
 Run the training script or open the Jupyter notebooks:
 
-
+```
 python src/train.py
-# or
-jupyter notebook notebooks/
+```
+
+
+
 # Features
-Clean code and modular structure
+- Data preprocessing and cleaning
 
-Easy to extend and modify
+- Multiple machine learning models
 
-Supports [e.g., multiple models, hyperparameter tuning, visualization]
+- Metrics tracking (accuracy, loss)
 
-[Any special features: "Genetic algorithm optimization", "Custom dataset support", etc.]
+- Well-commented and modular code
+
+- Easy to extend for new models or datasets
 
 # Results
 
