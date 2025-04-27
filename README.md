@@ -50,8 +50,8 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/p4prince2/Machine-Learning.git
+cd Machine-Learning
 Install dependencies:
 
 bash
@@ -100,3 +100,9 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## 🎥 Model Training Progress
 ![Training](assets/training.gif)
+
+## 🎥 Model Training Progress
+<p align="center">
+  <img src="assets/training.gif" width="600">
+</p>
+
