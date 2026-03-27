@@ -24,9 +24,7 @@ PyTorch / TensorFlow
 
 ├── notebooks/        # Jupyter notebooks for experiments
 
-├── src/              # Source code (data loaders, models, training scripts)
-
-├── outputs/          # Saved models, logs, generated files
+├── src/              # Source code (data loaders, models, training scripts,  Helping file)
 
 ├── README.md         # Project overview
 
