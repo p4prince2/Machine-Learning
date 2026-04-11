@@ -9,7 +9,7 @@ It covers the entire ML workflow: data preprocessing, model building, training, 
 Python
 
 NumPy
-
+  
 Pandas
 
 Matplotlib / Seaborn (for data visualization)
