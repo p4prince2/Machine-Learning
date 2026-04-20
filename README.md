@@ -1,5 +1,5 @@
 # Machine-Learning
-Welcome to my Machine Learning project repository! 🚀 This repository contains code, datasets, and documentation for building, training, and evaluating machine learning models.
+Welcome to my Machine Learning project repository!  This repository contains code, datasets, and documentation for building, training, and evaluating machine learning models.
 
 # About
 This project is focused on applying machine learning techniques to solve [real world problem— e.g., "classification of handwritten digits", "predicting house prices", "driver safety prediction", etc.].
